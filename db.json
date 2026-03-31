@@ -1,0 +1,202 @@
+{
+    "products":[{
+        "id":1,
+        "name":"Samsung F23",
+        "category":"Mobiles",
+        "img" :"https://tse2.mm.bing.net/th/id/OIP.RhDxIsFzChFSbgTfLys0KQHaHk?pid=Api&P=0&h=180",
+        "price":20000,
+        "Discription":"good camera, 30px",
+        "Ratings":4.5
+    },
+
+    {
+        "id":2,
+        "name":"HP laptop",
+        "Catagory":"Laptops",
+        "img":"https://tse2.mm.bing.net/th/id/OIP.ihwIG_vW_Qgy_LqBm8fx4AHaEK?pid=Api&P=0&h=180",
+        "price":"50000",
+        "Discrioption":"2 USB Type-A 5Gbps signaling rate; 1 AC smart pin; 1 HDMI 1.4b; 1 headphone/microphone combo; 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4b, HP Sleep and Charge)",
+        "ratings":"4.5"
+
+    },{
+        "id":3,
+        "name":"Fastrack",
+        "Catagory":"watches",
+        "img":"https://tse3.mm.bing.net/th/id/OIP.jafluV8VbmIdO958DF4zegHaNp?pid=Api&P=0&h=180",
+        "price":"30000",
+        "Discrioption":"The Noise Twist Go Round Dial Smartwatch is the perfect gift for anyone who appreciates style and functionality. With its sleek metal build vibrant 1.39 display and BT calling feature it keeps you connected effortlessly. Ideal for fitness enthusiasts it tracks progress through the NoiseFit app and offers productivity tools like voice assistance and music control. Whether for a busy professional or a fitness lover this smartwatch blends innovation with style making it the ultimate thoughtful gift.",
+        "ratings":"4.5"
+
+    },{
+        "id":4,
+        "name":"sun Glasses",
+        "Catagory":"glass",
+        "img":"https://static-assets-prod.fnp.com/images/pr/l/v20240919180053/signature-sunglasses_1.jpg",
+        "price":"40000",
+        "Discrioption":"Gift timeless style and protection with this Classic Sunglasses, perfect for both men and women. Handcrafted from stainless steel with a unique screw less design, these personalised shades combine fashion and function effortlessly. They shield your eyes from harmful sun rays while adding a touch of elegance to any outfit. Complete with a signature case, these sunglasses make a thoughtful gift for anyone who loves to blend style and practicality.",
+        "ratings":"3.5"
+
+    },{
+        "id":5,
+        "name":"maza",
+        "Catagory":"juice",
+        "img":"https://tse4.mm.bing.net/th/id/OIP.6MV1T4OrFVAQQhrLOQU-zAHaHa?pid=Api&P=0&h=180",
+        "price":300,
+        "Discrioption":"Maaza is the perennial mango fan’s 1st choice to relax and unwind. Its indulgent taste leaves you with a ‘sip to surrender’ feeling.¹",
+        "ratings":3.8
+    },{
+        "id":6,
+        "name":"short top",
+        "Catagory":"tops",
+        "img":"https://media.landmarkshops.in/cdn-cgi/image/h=831,w=615,q=85,fit=cover/max-new/1000015936560-Black-BLACK-1000015936560_02-2100.jpg",
+        "price":2000,
+        "Discrioption":"Smart and minimal, this solid crop top features a structured collar and half sleeves for a polished yet casual vibe. Its cropped silhouette makes it perfect for high-waisted pairings, from jeans to skirts.",
+        "ratings":4.9
+    },{
+        "id":7,
+        "name":"bata shoe",
+        "Catagory":"shoes",
+        "img":"https://media-us.landmarkshops.in/cdn-cgi/image/h=831,w=615,q=85,fit=cover/max-new/1000013434062-White-WHITE-1000013434062_01-2100.jpg",
+        "price":4000,
+        "Discrioption":"This pair of sneakers is a must-have for your casual collection and has been upgraded with a solid upper. It has a round toe, lace-up fastening, padded collar, cushioned footbed, and patterned outsole.",
+        "ratings":4.4
+    },{
+        "id":8,
+        "name":"shot",
+        "Catagory":"shots",
+        "img":"https://media.landmarkshops.in/cdn-cgi/image/h=831,w=615,q=85,fit=cover/max-new/1000015174462-Black-BLACK-1000015174462_05-2100.jpg",
+        "price":4000,
+        "Discrioption":"Stay comfortable and stylish with these solid knit shorts, featuring convenient insert pockets and a drawstring closure for an adjustable fit. Perfect for warm days or casual outings.",
+        "ratings":4.5
+    },{
+        "id":9,
+        "name":" kashmiri bangles",
+        "Catagory":"bangles",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/18424752a.webp",
+        "price":1000,
+        "Discrioption":"Occasion - Will add luster when worn for a Wedding, Engagement, Anniversary, Party or any special occasion. This perfect set will enhance your look wherever you go & give you a royal feel.",
+        "ratings":5.0
+    },{
+        "id":10,
+        "name":"Necklice",
+        "Catagory":"necklese",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/13879278a.webp",
+        "price":2000,
+        "Discrioption":"nique & Classic Look American Diamond Necklace set for women ,This Rhodium plated necklace set with earrings for white AD/Americal Diamond jewellery set.",
+        "ratings":3.7
+    },{
+        "id":11,
+        "name":"fog",
+        "Catagory":"perfume",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/21278914a.webp",
+        "price":1000,
+        "Discrioption":"Step into your power and rule every moment with Fogg I Am Queen Scent for Women. This 100 ml premium perfume is designed for women who lead with elegance, confidence, and charm. ",
+        "ratings":4.8
+    },{
+        "id":12,
+        "name":"ear rings",
+        "Catagory":"rings",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/13317229a.webp",
+        "price":1900,
+        "Discrioption":"Eye-Catching White Crystal Stoned Butterfly Shaped Long Dangler Earring Set. Engraved Smooth Finished Hanging Chains and Pearls. Our Product is perfect for valentines Anniversary Birthday gift for a girlfriend and Wife.",
+        "ratings":3.8
+    },{
+        "id":13,
+        "name":"ring",
+        "Catagory":"Ring",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/280x338/13317407a.webp",
+        "price":1500,
+        "Discrioption":"Ethnic Gold plated Combo of 6 Pairs Pearl Studded Hoop Earrings. Smooth Finished Studs and Eye catched Pearls Hoops Earring. Our Product is perfect for valentines Anniversary Birthday gift for girlfriend and Wife.",
+        "ratings":4.6
+    },{
+        "id":14,
+        "name":"mangalasutra",
+        "Catagory":"Mangalasutra",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/20726649f.webp",
+        "price":20000,
+        "Discrioption":"Celebrate the essence of tradition with this elegant Gold Plated Set of 3 Mangalsutras. Beautifully designed with classic black and gold beads, each piece reflects timeless elegance and cultural significance.",
+        "ratings":4.8
+    },{
+        "id":15,
+        "name":"eyeliner",
+        "Catagory":"eyeliner",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/22177481c.webp",
+        "price":2000,
+        "Discrioption":"Achieve precision and perfection with every stroke using the Swiss Beauty Select Here To Stay Liquid Liner. Designed with an ergonomic grip and a finely pointed tip, this eyeliner makes application seamless and fuss-free. Its smudge-proof, water-resistant formula ensures long-lasting wear, taking your look effortlessly from day to night.",
+        "ratings":3.9
+    },{
+        "id":16,
+        "name":"lipstic",
+        "Catagory":"lipstic",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/21257269a.webp",
+        "price":5000,
+        "Discrioption":"Make a fearless statement with the Faces Canada Comfy Matte Wow Liquid Lipstick The Bold Edit comes with bold shades COCOA CRUSH, MAROON MAVEN. Designed for those who love intense, standout colours, this lightweight liquid lipstick delivers rich pigmentation in a single swipe. Its comfortable matte formula glides smoothly, sets quickly, and stays put for hours without drying out your lips. With bold, vibrant shades perfect for every mood and moment, this lipstick keeps your look striking, confident, and effortlessly chic all day long.",
+        "ratings":4.5
+    },{
+        "id":17,
+        "name":"Debelli",
+        "Catagory":"Nailpolish",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/12696388a.webp",
+        "price":1000,
+        "Discrioption":"DeBelle Gel Nail Polish is a gel based, high-pigmentation formula which makes the nails to look beautiful and bright. These are available in the latest trendy colors in 4 finishes, i.e. Glossy, shimmer , Glitter & metallic . DeBelle nail polish has a unique feature of long-lasting stay with gel based formula. Also, it does not require UV light for drying.",
+        "ratings":4.6
+    },{
+        "id":18,
+        "name":"Hello yellow",
+        "Catagory":"makeup",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/219x265/22400539a.webp",
+        "price":5000,
+        "Discrioption":"The Glam21 Translucent Powder is your all-in-one solution for shine control, smoothness, and long-lasting makeup wear. Designed to melt effortlessly into the skin, this ultra-fine powder delivers a flawless, soft-focus finish without looking chalky or heavy.",
+        "ratings":4.6
+    },{
+        "id":19,
+        "name":"Himalaya",
+        "Catagory":"Moisturisor",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/18393880a.webp",
+        "price":4500,
+        "Discrioption":"Himalaya Moisturizing Aloe Vera Face Gel is a water-based face gel. It is enriched with the goodness of pure aloe vera, which is renowned for its moisturizing properties. This non-sticky gel instantly hydrates and soothes skin by restoring moisture balance. The formula refreshes and cools your skin leaving it oil free, moisturized and healthy.",
+        "ratings":4.8
+    },{
+        "id":20,
+        "name":"vitamin c face scrub",
+        "Catagory":"mamaearth",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/18498784a.webp",
+        "price":3000,
+        "Discrioption":"Glowing skin for the win! Crafted with the power of vitamin C and goodness of walnut, Mamaearth Vitamin C Face Scrub is your answer to clear and radiant skin. It scrubs away dirt and impurities while exfoliating gently. Vitamin C helps fight free-radical damage, while reducing pigmentation to give you glowing skin. Walnut shell powder, meanwhile exfoliates gently and scrubs away dead skin cells that can make your skin look dull.",
+        "ratings":4.4
+    },{
+        "id":21,
+        "name":"Ankelets",
+        "Catagory":"ankelets",
+        "img":"https://images.meesho.com/images/products/4724920/1_512.avif?width=512",
+        "price":3000,
+        "Discrioption":"Blending elegance with ethnic charm, this anklet set features a captivating design of dual silver-toned chains enhanced with a mix of black and white beading. The centerpiece is a beautifully crafted silver leaf charm that adds a graceful and earthy element.",
+        "ratings":4.6
+    },{
+        "id":22,
+        "name":"yellow chims",
+        "Catagory":"watch",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/13317235a.webp",
+        "price":4000,
+        "Discrioption":"The ring features an attached Analog functioning watch - for a Trendy and Fashion Look and Usability that match your Mood and Outfit. Our Product is perfect for valentines Anniversary Birthday gift for Women, Men.",
+        "ratings":4.2
+    
+    },{
+        "id":23,
+        "name":"shinchan",
+        "Catagory":"toy",
+        "img":"https://cdn.fcglcdn.com/brainbees/images/products/583x720/2164554a.webp",
+        "price":2000,
+        "Discription":" oft ToyDesigned in an attractive color from soft fabric, your kids will not stop hugging and cuddling with this plush toy in their arms. This cute soft toy is sure to become your child's best companion. Extremely soft and cozy with heartwarming eyes that beg for a cuddly hug! Made from top quality material. Easy to carry and cuddle.",
+        "ratings":4.7
+    },{
+        "id":24,
+        "name":"doremon",
+        "category":"toys",
+        "img":" https://cdn.fcglcdn.com/brainbees/images/products/219x265/11685862a.webp",
+        "price":5000,
+        "Discrioption":"Especially designed for the little hands to experience the magic and energy of Indian music. The drum is sturdy made and comes with two sticks. The included drum sticks are made from plastic, these sticks are rightly sized down to work well with tiny toddler hands. Also features a strap for easy carrying convenience.",
+        "ratings":4.8
+    }],
+    "orders":[]
+}
