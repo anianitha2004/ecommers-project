@@ -10,7 +10,7 @@ const Nav = () => {
         </div>
         <div className="right">
           <Link to={"/products"}><h2>Products</h2></Link>
-            <h2>Cart</h2>
+          <Link to={"/cart"}><h2>Cart</h2></Link>
         </div>
     </div>
     </>
